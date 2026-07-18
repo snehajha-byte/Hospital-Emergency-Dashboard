@@ -5,9 +5,6 @@ An interactive Excel dashboard built to analyze Hospital Emergency Room (ER)
 patient data — created as part of my Data Analyst Internship at 
 **Analytics Career Connect**.
 
-## 📊 Dashboard Preview
-![Dashboard Screenshot](dashboard_screenshot.png)
-
 ## 🎯 Objective
 To analyze ER patient data and provide actionable insights on patient flow, 
 wait times, satisfaction, and department referrals to help improve hospital 
@@ -40,4 +37,4 @@ efficiency and service quality.
 Data Analyst Intern at Analytics Career Connect, passionate about turning 
 raw data into clear, actionable insights through dashboards and visualization.
 
-📌 Connect with me on [LinkedIn](your-linkedin-url-here)
+📌 Connect with me on https://www.linkedin.com/in/sneha-kumari-a51b47314/
